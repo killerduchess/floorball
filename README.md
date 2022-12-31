@@ -1,2 +1,2 @@
 # floorball
-web development projrect of a floorball association website.
+web development project of a floorball association website.
